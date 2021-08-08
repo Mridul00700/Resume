@@ -1,0 +1,11 @@
+.app {
+  height: 100vh; // View Port
+
+  .sections {
+    width: 100%;
+    height: calc(100vh - 70px);
+    background-color: lightsalmon;
+    position: relative;
+    top: 70px;
+  }
+}
